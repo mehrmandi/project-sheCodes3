@@ -1,0 +1,20 @@
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 6rem;
+  font-weight: 700;
+}
+
+h2{
+  font-family: 'Playfair Display', serif;
+}
+
+p.hello{
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.hero{
+  min-height: 90vh;
+  background-color: #F9F7FE;
+}
